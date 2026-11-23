@@ -43,7 +43,7 @@ See [the example play](skills/build-play/examples/example-invoice-reconciliation
 **Claude Code:** copy the three folders in `skills/` into `~/.claude/skills/` (all projects) or `<project>/.claude/skills/`.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/zmstr2/outbound-agent-skills.git
 cp -R outbound-agent-skills/skills/* ~/.claude/skills/
 ```
 
