@@ -1,0 +1,6 @@
+# Local working files: your plays hold real positioning and customer claims
+plays/*
+!plays/.gitkeep
+dossiers/
+.DS_Store
+.impeccable/
